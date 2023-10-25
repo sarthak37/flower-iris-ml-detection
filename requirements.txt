@@ -9,6 +9,5 @@ MarkupSafe
 numpy
 scikit-learn
 scipy
-sklearn
 threadpoolctl
 Werkzeug
